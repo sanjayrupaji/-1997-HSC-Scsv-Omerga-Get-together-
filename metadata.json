@@ -1,0 +1,6 @@
+{
+  "name": "मित्रमेळावा १९९७ - SCSM उमरगा",
+  "description": "श्री छत्रपती शिवाजी महाविद्यालय उमरगा १९९७ बारावी वर्ग मित्र गेट-टुगेदर आणि माहिती संकलन ॲप्लिकेशन",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
